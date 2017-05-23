@@ -11,4 +11,6 @@ Hello, voici un exercice qui mettera votre logique à rude épreuve et vous perm
 
 ## NB 
 
-N'oubliez pas le titre de l'exercice... Ceci est un indice ;). **L'image, _base.png_, est une idée de ce que à quoi le site. Ce n'est pas son rendu final !**
+N'oubliez pas le titre de l'exercice... Ceci est un indice ;). **L'image, _base.png_, est une idée de ce que à quoi ressemble le site. Ce n'est pas son rendu final !**
+
+Bon courage !
