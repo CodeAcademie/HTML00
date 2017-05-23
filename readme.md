@@ -7,7 +7,7 @@ Hello, voici un exercice qui mettera votre logique à rude épreuve et vous perm
 * Installer un **IDE** (et se renseigner sur ce que c'est).
 * Télécharger ce dossier en ZIP.
 * Le dézipper (bonus si vous le faîtes en ligne de commande)
-* Ouvrir le fichier Index.html
+* Ouvrir le fichier Index.html avec votre navigateur
 * Réussir l'exercice 1 avant 12h30
 
 ## NB 
